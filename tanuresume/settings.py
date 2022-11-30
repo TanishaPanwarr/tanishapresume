@@ -82,7 +82,7 @@ DATABASES = {
         'NAME':'railway',
         'HOST':'containers-us-west-108.railway.app',
         'USER':'postgres',
-        'PASSWORD':'jsEcYhsGb0XeS7ojTfn3',
+         'PASSWORD':'jsEcYhsGb0XeS7ojTfn3',
         'PORT':'7544',
     }
 }
@@ -139,5 +139,5 @@ import dj_database_url
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'ptanisha922@gmail.com'
-EMAIL_HOST_PASSWORD ='kvqoviodxdxqktci'
+EMAIL_HOST_USER = 'tanishapanwar7828@gmail.com'
+EMAIL_HOST_PASSWORD ='hpeeslaszlzurvih'
